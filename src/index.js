@@ -1,7 +1,5 @@
-import { forEach } from 'lodash'
 import './styles/app.scss'
 
-const title = document.getElementById("title")
 const button = document.getElementById("start")
 const score = document.getElementById("score")
 const cvs = document.getElementById("canvas")
